@@ -1,4 +1,12 @@
-<?php
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+
+  <?php
 
 
 startsession();
@@ -10,3 +18,5 @@ echo $_COOKIE[$name] . $_COOKIE[$last];
 
 
  ?>
+
+</body>
